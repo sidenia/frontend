@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<title>Agência de Viagens</title>
+<head>
+    <h1 align="center"><font face="verdana" color="#4b58d0">AGÊNCIA DE VIAGENS DA SI</font></h1>
+    <h2><font face="Traveling _Typewriter">Principais pontos turísticos</font></h2>    
+</head>
+<body>
+    <ol>
+        <li><strong>Porto Alegre</strong></li>
+        <img src="C:\Users\siden\OneDrive\Documents\Estudos\Certificados Cursos\FE.HTML\Html_Básico_Fundação Bradesco\Porto_Alegre.jpg" alt="Foto de Porto Alegre" align="bottom">
+        <ul type="circle">
+            <li>Casa de Cultura Mario Quintana
+            <li>Jardim Botânico
+            <li>Parque Maurício Sirotsky Sobrinho
+            <li>Lago Guaíba
+        </ul>
+        <br>
+        <li><strong>Manaus</strong></li>
+        <img src="C:\Users\siden\OneDrive\Documents\Estudos\Certificados Cursos\FE.HTML\Html_Básico_Fundação Bradesco\Manaus.jpg" alt="Foto de Manaus" align="bottom">
+        <ul type="circle">
+            <li>Encontro das Águas
+            <li>Palácio Rio Negro
+            <li>Centro Cultural dos Povos da Amazônia
+            <li>Teatro Amazonas
+        </ul>
+    </ol>
+    <p>Independente da cidade escolhida você terá férias maravilhosas!</p>
+</body>
+
+</html>
