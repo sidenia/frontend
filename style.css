@@ -1,0 +1,84 @@
+body {
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Dela Gothic One', cursive;
+}
+.container {
+    width: 95vw;
+    height: 95vh;
+    padding-right: auto;
+    padding-left: auto;
+    margin-right: auto;
+    margin-left: auto;
+    border: 8px solid rgb(77, 77, 135);
+    background-color: #d9d9d9;
+    border-radius: 15px;
+  }
+
+.cinza {
+    width: 35vw;
+    height: 70vh;
+    padding-top: 20px;
+    padding-right: auto;
+    padding-left: auto;
+    margin: 50px auto;
+    background-color: rgb(217, 232, 251);
+    border-radius: 20%;
+}
+
+.roxo {
+    width: 32vw;
+    height: 46vh;
+    padding-top: 23px;
+    padding-right: auto;
+    padding-left: auto;
+    margin: 15px auto;
+    background-color: rgb(77, 77, 135);
+    border-radius: 25%;
+    display: grid;
+    grid-template-columns: 50px 50px 50px 50px;
+    grid-template-rows: auto;
+    -webkit-box-shadow: 0px 14px 16px 0px #7AABD9; 
+    box-shadow: 0px 14px 16px 0px #7AABD9;
+}
+
+.olhoum {
+    width: 6vw;
+    height: 15vh;
+    padding-top: 35px;
+    padding-right: auto;
+    padding-left: auto;
+    margin: 3.125rem 5rem auto; /*50px 80px*/
+    background-color: rgb(73, 231, 217);
+    border-radius: 45%; 
+}
+
+.olhodois {
+    width: 6vw;
+    height: 15vh;
+    padding-top: 35px;
+    padding-right: auto;
+    padding-left: auto;
+    margin: 3.125rem 13.438rem auto; /*50px 215px*/
+    background-color: rgb(73, 231, 217);
+    border-radius: 45%; 
+    
+}
+
+.smile {
+    width: 4vw;
+    height: 2.5vh;
+    background: transparent;
+    border-radius: 50px 50px 400px 400px;
+    border: 20px solid rgb(77, 77, 135);
+    border-top:none;
+    border-right: 20px solid rgb(77, 77, 135);
+    margin: 35px auto;
+    padding-top: 15px;
+    padding-right: auto;
+    padding-left: auto;
+    }
+    
